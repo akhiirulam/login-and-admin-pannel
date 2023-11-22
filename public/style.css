@@ -1,0 +1,9 @@
+.center-div
+{
+    padding-top: 50%;
+}
+
+.form-group
+{
+    -ms-grid-row-align: center;
+}
